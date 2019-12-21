@@ -1,2 +1,2 @@
 # SNBS
-My codes for Simulating Neurobiological Systems (SYDE 750)
+My codes for Simulating Neurobiological Systems 
