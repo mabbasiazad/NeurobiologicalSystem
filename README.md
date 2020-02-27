@@ -1,2 +1,2 @@
 # SNBS
-My codes for Computational Neuroscience
+My codes for Neurobiological Systems Simulation
